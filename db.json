@@ -1,21 +1,21 @@
 {
   "clients": [
     {
-      "id" : "1"
+      "id" : "1",
       "imie": "Magdalena",
       "nazwisko": "Kowalska",
       "email": "magda.kowalska@example.com",
       "telefon": "+48 600 100 200"
     },
     {
-      "id": "2"
+      "id": "2",
       "imie": "Anna",
       "nazwisko": "Nowak",
       "email": "anna.nowak@example.com",
       "telefon": "+48 501 222 333"
     },
     {
-      "id": "3"
+      "id": "3",
       "imie": "Paulina",
       "nazwisko": "Wiśniewska",
       "email": "paulina.wisniewski@example.com",
