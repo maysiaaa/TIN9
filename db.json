@@ -1,4 +1,4 @@
-[
+clients: {[
   {
     "imie": "Magdalena",
     "nazwisko": "Kowalska",
@@ -17,4 +17,4 @@
     "email": "paulina.wisniewski@example.com",
     "telefon": "+48 790 444 555"
   }
-]
+]}
