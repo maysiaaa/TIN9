@@ -1,20 +1,22 @@
-{"clients": [
-  {
-    "imie": "Magdalena",
-    "nazwisko": "Kowalska",
-    "email": "magda.kowalska@example.com",
-    "telefon": "+48 600 100 200"
-  },
-  {
-    "imie": "Anna",
-    "nazwisko": "Nowak",
-    "email": "anna.nowak@example.com",
-    "telefon": "+48 501 222 333"
-  },
-  {
-    "imie": "Paulina",
-    "nazwisko": "Wiśniewska",
-    "email": "paulina.wisniewski@example.com",
-    "telefon": "+48 790 444 555"
-  }
-]}
+{
+  "clients": [
+    {
+      "imie": "Magdalena",
+      "nazwisko": "Kowalska",
+      "email": "magda.kowalska@example.com",
+      "telefon": "+48 600 100 200"
+    },
+    {
+      "imie": "Anna",
+      "nazwisko": "Nowak",
+      "email": "anna.nowak@example.com",
+      "telefon": "+48 501 222 333"
+    },
+    {
+      "imie": "Paulina",
+      "nazwisko": "Wiśniewska",
+      "email": "paulina.wisniewski@example.com",
+      "telefon": "+48 790 444 555"
+    }
+  ]
+}
