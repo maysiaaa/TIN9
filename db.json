@@ -1,7 +1,7 @@
 {
   "clients": [
     {
-      "id" : "1",
+      "id": "1",
       "imie": "Magdalena",
       "nazwisko": "Kowalska",
       "email": "magda.kowalska@example.com",
