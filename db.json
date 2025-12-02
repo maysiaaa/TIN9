@@ -1,25 +1,25 @@
 {
   "clients": [
     {
-      "id": "1",
-      "imie": "Magdalena",
-      "nazwisko": "Kowalska",
+      "id": 1,
+      "firstName": "Magdalena",
+      "lastName": "Kowalska",
       "email": "magda.kowalska@example.com",
-      "telefon": "+48 600 100 200"
+      "phone": "+48 600 100 200"
     },
     {
-      "id": "2",
-      "imie": "Anna",
-      "nazwisko": "Nowak",
+      "id": 2,
+      "firstName": "Anna",
+      "lastName": "Nowak",
       "email": "anna.nowak@example.com",
-      "telefon": "+48 501 222 333"
+      "phone": "+48 501 222 333"
     },
     {
-      "id": "3",
-      "imie": "Paulina",
-      "nazwisko": "Wiśniewska",
+      "id": 3,
+      "firstName": "Paulina",
+      "lastName": "Wiśniewska",
       "email": "paulina.wisniewski@example.com",
-      "telefon": "+48 790 444 555"
+      "phone": "+48 790 444 555"
     }
   ]
 }
